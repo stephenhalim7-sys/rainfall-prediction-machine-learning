@@ -172,28 +172,6 @@ The project was developed using:
 
 ---
 
-## Repository Structure
-
-```text
-bmkg-rainfall-prediction/
-│
-├── README.md
-│
-├── data/
-│   └── data_harian_bmkg_2022_2026.csv
-│
-├── notebooks/
-│   └── rainfall_prediction.ipynb
-│
-├── images/
-│   ├── actual-vs-predicted.png
-│   └── model-performance.png
-│
-└── requirements.txt
-```
-
----
-
 ## Future Improvements
 
 Several improvements could be explored in future work:
@@ -207,11 +185,3 @@ Several improvements could be explored in future work:
 * Evaluating the model using additional performance metrics.
 
 ---
-
-## Author
-
-**Stephen Lionel Halim**
-
-Mathematics Student — Airlangga University
-
-Interested in **Data Analysis, Data Science, and Mathematical Modeling**.
