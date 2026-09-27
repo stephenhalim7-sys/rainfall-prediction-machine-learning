@@ -145,7 +145,7 @@ Based on these evaluation metrics, the Random Forest model produced a lower RMSE
 
 ### Model Performance Comparison
 
-![Model Performance](images/model-performance.png)
+![Model Performance](result/scatter_actual_vs_predicted.png)
 
 ---
 
